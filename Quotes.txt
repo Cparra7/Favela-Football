@@ -1,0 +1,9 @@
+string1*Ronaldo: 'I AM GOING TO KICK SIUUUU'
+string2*Ronaldo: 'New Cleats? mmm...'
+string3*Ronaldo: 'Maybe someone doesn't like me because maybe im too good?'
+string4*Ronaldo: 'I am a machine'
+string5*Ronaldo: 'GOOOOOOOL SIUUUUU'
+string6*Coach: 'THE BALL IS THE OTHER WAY!"
+string7*Coach: 'DO YOU WANT TO GET SUBBED OUT?!'
+string8*Coach: 'THATS NOT YOUR POSITION!'
+string9*Coach: 'Well atleast he's close to the goal'
