@@ -25,7 +25,7 @@ public class Main{
 	public static boolean isImageDrawn = false; //automatically set to false
 	public static stopWatchX timer = new stopWatchX(100); //The Lower the Smoother it goes across screen
 	
-	//Sprites
+	//Sprites - Not needed 
 //	public static spriteInfo s1 = new spriteInfo(new Vector2D(100,52), "Ronaldo"); //may cause an issue later on if it stays stuck at 520
 //	public static spriteInfo s2 = new spriteInfo(new Vector2D(150,520), "walk");
 //	public static spriteInfo s3 = new spriteInfo(new Vector2D(200,520), "run");
